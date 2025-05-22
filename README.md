@@ -1,34 +1,31 @@
-# 📺 YouTube Channel Performance Dashboard – Looker Studio
+# 👥 HR Dashboard – Power BI Project
 
-Interactive dashboard tracking key content KPIs across a fictional YouTube channel.
+This dashboard tracks key HR metrics for a fictional mid-sized company.
 
 ## 📌 Objective
 
-- Monitor video performance (CTR, engagement, views, duration)  
-- Analyze behavioral patterns by length and category  
-- Deliver insights for content optimization
+- Monitor workforce size, turnover, gender parity, and seniority  
+- Visualize absence trends  
+- Provide a clear one-page overview for HR decision-making
 
 ## 🧰 Tools Used
 
-- Google Looker Studio  
-- Google Sheets  
-- Visual storytelling
+- Microsoft Power BI  
+- DAX & KPI cards  
+- Custom filters and UX design
 
-## 📊 Key Insights
+## 📊 Key Features
 
-- 🎮 Gaming and Interview videos had the highest CTR  
-- 📈 Q1 and Q4 show strong performance peaks  
-- ⏱️ 10–40 min videos had the longest average watch time
+- 📌 Employee count, turnover rate, % of women  
+- 📈 Absences & average seniority  
+- 📍 Department-level breakdown  
+- 🧭 Filters by age bracket, gender, and status
 
 ## 📎 Files Included
 
-- `Rapport_sans_nom.pdf` – Guide & visual overview  
-- Dashboard link – fully interactive
-
-## 🌐 Live Dashboard
-
-🔗 [View live dashboard](https://lookerstudio.google.com/reporting/77bc1b51-4b85-4034-85bc-1e745a206575)
+- `Dashboard RH.pdf` – Exported high-quality visual report  
+- `.pbix` – Power BI source file (optional, not always shared)
 
 ## 🌐 Portfolio
 
-➡️ [View all my projects on Notion](https://www.notion.so/Vue-Donn-e-Data-Analyst-Freelance-1f31fee1f685803aafdaf44f7b133caa)
+➡️ [View all my projects on Notion](https://easy-sand-380.notion.site/Vue-Donn-e-Data-Analyst-Freelance-1f31fee1f685803aafdaf44f7b133caa)
