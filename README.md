@@ -27,7 +27,7 @@ Interactive dashboard tracking key content KPIs across a fictional YouTube chann
 
 ## 🌐 Live Dashboard
 
-🔗 [View live dashboard](https://lookerstudio.google.com/s/s_rWnDdrZKw)
+🔗 [View live dashboard](https://lookerstudio.google.com/reporting/77bc1b51-4b85-4034-85bc-1e745a206575)
 
 ## 🌐 Portfolio
 
